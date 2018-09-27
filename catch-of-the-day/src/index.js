@@ -5,4 +5,6 @@ import App from './components/App'
 
 import "./css/style.css"
 
-render(<Storepicker />, document.querySelector('#main'))
+// render(<Storepicker />, document.querySelector('#main'))
+
+render(<App />, document.querySelector('#main'))
